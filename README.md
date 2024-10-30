@@ -4,7 +4,7 @@ Made by four students in the Department of Chemical Engineering at the Universit
 Madeline Chung | 21133180\
 Spruha Khadilkar | 21133309\
 Aidan Ryan | 21154592\
-Final project assigned by Professor Pendar Mahmoud\ 
+Final project assigned by Professor Pendar Mahmoud\
 \
 ---------------------------------------------------------------------------------------------------------------------\
 \
